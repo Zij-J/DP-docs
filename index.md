@@ -21,6 +21,8 @@ The **Promotion**:
 [More Dreaming](hope_and_wish.md)
 
 # Current Progress: 打磨一場戰鬥、向世界證明能力吧!
+> **Motto**: Being bad is needed to be good. 
+
 
 [Promotion: CI Learning Notes to Github](promotion/document_web.md)
 
