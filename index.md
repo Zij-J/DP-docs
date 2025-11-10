@@ -22,7 +22,9 @@ The **Promotion**:
 
 # Current Progress: 打磨一場戰鬥、向世界證明能力吧!
 
-Promotion: CI Development Log & Learning Note to Github
+[Promotion: CI Learning Notes to Github](promotion/document_web.md)
+
+[Promotion: Make Github Web Pretty](promotion/document_web.md)
 
 Promotion: Werkly Report on Twitter(X)
 
@@ -35,8 +37,10 @@ Art: 3D Modeling & Animation in Godot
 
 # Completed Stuff
 
+[git SSH problems & setup](tools/git_ssh.md)
+
 # Major Events
 Time|Event
 -|-
-2025-11-05|開發再開
-2025-11-07|Start Document & Dreaming
+2025-11-03 ~ 09|開發再開, Start Document & Dreaming
+2025-11-10 ~ 16|[Set git SSH](tools/git_ssh.md), [Upload docs to github page](Promotion/document_web.md)
