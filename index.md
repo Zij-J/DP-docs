@@ -3,7 +3,7 @@
 Following [messy dreams](hope_and_wish.md) is weirdly fun!
 
 # Current Progress: 打磨一場戰鬥、向世界證明能力吧!
-> **Motto**: Being bad = Having fun of _Be Better_! 
+> **Motto**: Being bad = Having fun of Being Better! 
 
 
 [Promotion: CI Learning Notes to Github](promotion/document_web.md)
