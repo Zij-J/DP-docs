@@ -1,5 +1,5 @@
 # For **Motivation**
-_Simple One:_ **The game WILL be fun!**
+_Simple One:_ **Following messy dreams is weirdly fun!**
 
 _Complex One:_ Be **fun** and **famous** by **Creating**, not Competing!  
 1. Choose **what I love to do**, i.e., what motivates me, what give me hope _even when I get Zero fame and resources._
@@ -32,4 +32,7 @@ Classical Music remix with **Dramatically** _classical_ Percussion
 Minimalist, but **Dramatically** animed
 
 ## The **Story**: 
-Serious background & Events with Goofy and **Dramatic** characters
+Serious Background & Events with **Goofy Drastical _Physic Giants_ and Characters**
+
+## The **Promotion**: 
+Still a normal guy making his fun dreams Real-ly fun, step by step!

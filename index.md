@@ -1,27 +1,9 @@
 # Hope & Wish
 
-The **Gameplay**:
-> _All has been calculated_ 
-
-The **Music**: 
-> _**remix Classical Music**_ with **Drastically** _classical_ Percussion
-
-The **Art**: 
-> **Drastically** **_lighting_** & animation
-
-The **UI**: 
-> Minimalist, but **Drastical**
-
-The **Story**: 
-> Serious Background & Events with **Goofy Drastical _Physic Giants_ and Characters**
-
-The **Promotion**:
-> Still a normal guy 
-
-[More Dreaming](hope_and_wish.md)
+Following [messy dreams](hope_and_wish.md) is weirdly fun!
 
 # Current Progress: 打磨一場戰鬥、向世界證明能力吧!
-> **Motto**: Being bad is needed to be good. 
+> **Motto**: Being bad = Having fun of _Be Better_! 
 
 
 [Promotion: CI Learning Notes to Github](promotion/document_web.md)
