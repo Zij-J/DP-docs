@@ -3,7 +3,11 @@
 Following [messy dreams](hope_and_wish.md) is weirdly fun!
 
 # Todo: 打磨一場戰鬥、向世界證明能力吧!
-> **Motto**: Being bad = Having fun of Being Better! 
+> **Get Start:** Everything is fun. We just forget to feel them.
+
+> **Don't Stop:** Being bad = Having fun of Being Better! 
+
+> **Ease up:** Why not keep the experience fun and hyped? 
 
 Art: Pixelated Shader
 
