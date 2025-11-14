@@ -11,6 +11,8 @@ Following [messy dreams](hope_and_wish.md) is weirdly fun!
 
 Art: Pixelated Shader
 
+Art: Creat 3D animation
+
 Art: Import 3D Character in Blender to Godot 
 
 [Gameplay: Player Movement](gameplay/player_movement.md)
