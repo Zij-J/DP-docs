@@ -3,7 +3,7 @@
 Following [messy dreams](hope_and_wish.md) is weirdly fun!
 
 # Todo: 打磨一場戰鬥、向世界證明能力吧!
-> **Get Start:** Everything is fun. We just forget to feel them.
+> **Get Start:** **Everything is fun. We just forget to feel them.**
 
 > **Don't Stop:** Being bad = Having fun of Being Better! 
 
