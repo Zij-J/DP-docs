@@ -24,20 +24,31 @@ Art: Import 3D Character in Blender to Godot
 
 [Promotion: Make Github Web Pretty](promotion/document_web.md)
 
-Promotion: Werkly Report on Twitter(X)
+Promotion: Weekly Report on Twitter(X)
 
 
 Art: 3D Modeling & Animation in Godot
 
 
 # Completed
+<!-- Year & Week|Promotion|Art|Gameplay|Others -->
 
-[Tools: git SSH problems & setup](tools/git_ssh.md)
+**Year 0 Week 0:** \
+開發再開 \
+ Start Document & Dreaming
 
-[Gameplay: Remove Rapier2D](gameplay/rapier2d.md)
+**Year 0 Week 1:** \
+[Promotion: Upload docs to github page](Promotion/document_web.md)\
+[Art: Learn Godot 3D Animation code Structure](art/3d_animation_to_godot.md) \
+[Gameplay: Remove Rapier2D](gameplay/rapier2d.md) \
+[Tools: git SSH problems & setup](tools/git_ssh.md) \
+Refine Mottos 
+
+Year 0 Week 2
+
 
 # Major Events
 Time|Event
 -|-
-2025-11-03 ~ 09|開發再開, Start Document & Dreaming
-2025-11-10 ~ 16|[Set git SSH](tools/git_ssh.md), [Upload docs to github page](Promotion/document_web.md)
+2025-11-03 ~ 09|開發再開; Start Document & Dreaming
+2025-11-10 ~ 16|[Upload docs to github page](Promotion/document_web.md)
