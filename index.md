@@ -9,7 +9,7 @@ Following [messy dreams](hope_and_wish.md) is weirdly fun!
 
 > **Ease up:** Why not keep the experience fun and hyped? 
 
-Art: Pixelated Shader
+[Art: Pixelated Shader](art/pixelated_shader.md)
 
 Art: Creat 3D animation
 
@@ -42,9 +42,11 @@ Art: 3D Modeling & Animation in Godot
 [Art: Learn Godot 3D Animation code Structure](art/3d_animation_to_godot.md) \
 [Gameplay: Remove Rapier2D](gameplay/rapier2d.md) \
 [Tools: git SSH problems & setup](tools/git_ssh.md) \
-Refine Mottos 
+[Refine Mottos](hope_and_wish.md)
 
-Year 0 Week 2
+**Year 0 Week 2, 3:** \
+[Reduce pressure of being "fun" (smiles is great enough!)](hope_and_wish.md)
+
 
 
 # Major Events

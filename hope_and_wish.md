@@ -1,7 +1,7 @@
 # For **Motivation**
 _Simple One:_ **Following messy dreams is weirdly fun!**
 
-_Complex One:_ Get **Fun** and **Respect** by **Creating**, not Competing!  
+_Complex One:_ Bring **Smile** and **Respect** by **Creating**, not Competing!  
 1. Choose **what I love to do**, i.e., what motivates me, what give me hope _even when I get Zero fame and resources._
 2. Get **Respect** so _Survive + 探索(Explore)--歸屬(Attach)_ can be more easily sated. We are social animal afterall. 
 3. Choose to **be Respected by what aspect**. What kind of friend I want to have? What kind of world I like to live in? Be like that!
