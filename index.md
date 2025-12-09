@@ -47,6 +47,8 @@ Art: 3D Modeling & Animation in Godot
 **Year 0 Week 2, 3:** \
 [Reduce pressure of being "fun" (smiles is great enough!)](hope_and_wish.md)
 
+**Year 0 Week 4:** \
+[Clarify my Goal: Show the World in a Fun way.](hope_and_wish.md)
 
 
 # Major Events

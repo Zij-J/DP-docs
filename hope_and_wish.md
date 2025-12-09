@@ -1,15 +1,20 @@
 # For **Motivation**
-_Simple One:_ **Following messy dreams is weirdly fun!**
+_Simple One:_ Show **the World** in a **Fun** way.
 
 _Complex One:_ Bring **Smile** and **Respect** by **Creating**, not Competing!  
 1. Choose **what I love to do**, i.e., what motivates me, what give me hope _even when I get Zero fame and resources._
 2. Get **Respect** so _Survive + 探索(Explore)--歸屬(Attach)_ can be more easily sated. We are social animal afterall. 
 3. Choose to **be Respected by what aspect**. What kind of friend I want to have? What kind of world I like to live in? Be like that!
 4. _Competing gets fun and repsect from other's suffering_. Bad. 
+5. Pass **Hopes** on. Make the world slightly warmer (for me~). 
+
+## The **World** part
+Physic & History.  
+The more real, the more **Dramatic** when limit breaks.  
 
 
-
-## The **Gameplay**:
+## The **Fun** part
+### The **Gameplay**:
 > _All has been calculated_ 
 
 > _It's big brain time!_
@@ -22,17 +27,17 @@ v.s. Newton!?
 
 Skill name: _Second Newton's Law_, _Fourier Expension_!, Right-hand _Rule_, ...  
 
-## The **Music**: 
+### The **Music**: 
 Classical Music remix with **Dramatically** _classical_ Percussion
 
-##  The **Art**: 
+###  The **Art**: 
 3D to pixel art with **Dramatically** lighting & anime
 
-## The **UI**: 
+### The **UI**: 
 Minimalist, but **Dramatically** animed
 
-## The **Story**: 
+### The **Story**: 
 Serious Background & Events with **Goofy Drastical _Physic Giants_ and Characters**
 
-## The **Promotion**: 
+### The **Promotion**: 
 Still a normal guy making his fun dreams Real-ly fun, step by step!
