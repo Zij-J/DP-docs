@@ -47,7 +47,7 @@ Art: 3D Modeling & Animation in Godot
 **Year 0 Week 2, 3:** \
 [Reduce pressure of being "fun" (smiles is great enough!)](hope_and_wish.md)
 
-**Year 0 Week 4:** \
+**Year 0 Week 4, 5:** \
 [Clarify my Goal: Show the World in a Fun way.](hope_and_wish.md)
 
 
@@ -56,3 +56,4 @@ Time|Event
 -|-
 2025-11-03 ~ 09|開發再開; Start Document & Dreaming
 2025-11-10 ~ 16|[Upload docs to github page](Promotion/document_web.md)
+2025-12-07 ~ 14|[Clarify my Goal: Show the World in a Fun way.](hope_and_wish.md)
