@@ -17,7 +17,7 @@
 - Domination (Rank, Competition)
 
 **缺社交 (aka *felt lonely/disconnected*)**: \
-~~Octopath 2~~ ~~Behind the Frame~~
+~~Octopath 2~~ ~~Behind the Frame~~ Persona3
 - Relatable and inspiring story
 - Upbeats character
 - Happy interactions
