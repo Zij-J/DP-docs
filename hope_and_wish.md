@@ -8,10 +8,17 @@ _Complex One:_ Bring **Smile** and **Respect** by **Creating**, not Competing!
 4. _Competing gets fun and repsect from other's suffering_. Bad. 
 5. Pass **Hopes** on. Make the world slightly warmer (for me~). 
 
+### Goal
+A life pattern: \
+***Vividify the day, Gamify the night.*** 充實人生、充實遊戲
+
+> After setting the goal, we can **focus on the next step**, which is the prerequisite of Fun.
+
 ## The **World** part
 Physic & History.  
-The more real, the more **Dramatic** when limit breaks.  
-
+The more **Real**, the more 
+1. **Dramatic** when limits broken.   
+2. **Inspiring** when things done. 
 
 ## The **Fun** part
 ### The **Gameplay**:
@@ -41,3 +48,7 @@ Serious Background & Events with **Goofy Drastical _Physic Giants_ and Character
 
 ### The **Promotion**: 
 Still a normal guy making his fun dreams Real-ly fun, step by step!
+
+
+### Misc
+[Back to Main Page](../index.md)

@@ -32,6 +32,7 @@ Art: 3D Modeling & Animation in Godot
 
 # Completed
 <!-- Year & Week|Promotion|Art|Gameplay|Others -->
+Recorded Time **Recording Period**
 
 2025-11-03 **Year 0 Week 0:** \
 開發再開 \
@@ -50,11 +51,19 @@ Art: 3D Modeling & Animation in Godot
 2025-12-01 **Year 0 Week 4, 5:** \
 [Clarify my Goal: Show the World in a Fun way.](hope_and_wish.md)
 
-2025-12-15
+2025-01-04 **Year 0 Week 6, 7, 8, 9**: \
+[Decide gaming for current needs (not for making games)](gaming_prescription.md) \
+[Art: Learning basic 2D Godot Shaders](art/pixelated_shader.md) \
+[Art: Learning Ray casting Algorithm](art/pixelated_shader.md)
+
+2025-01- **Year 0 Week 10**: \
+[Phrase the life I want to live](hope_and_wish.md)
 
 # Major Events
 Time|Event
 -|-
-2025-11-03 ~ 09|開發再開; Start Document & Dreaming
-2025-11-10 ~ 16|[Upload docs to github page](Promotion/document_web.md)
-2025-12-07 ~ 14|[Clarify my Goal: Show the World in a Fun way.](hope_and_wish.md)
+2025-11-03|開發再開; Start Document & Dreaming
+2025-11-10|[Upload docs to github page](Promotion/document_web.md)
+2025-12-10|[Clarify my Goal: Show the World in a Fun way.](hope_and_wish.md)
+2026-01-04|[Decide gaming for current needs (not for making games)](gaming_prescription.md)
+2026-01-05|[Phrase the life I want to live](hope_and_wish.md)
