@@ -51,4 +51,4 @@ Still a normal guy making his fun dreams Real-ly fun, step by step!
 
 
 ### Misc
-[Back to Main Page](../index.md)
+[Back to Main Page](index.md)
