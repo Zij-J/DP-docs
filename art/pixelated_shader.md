@@ -15,7 +15,7 @@ https://docs.godotengine.org/en/stable/tutorials/shaders/shader_reference/shadin
 > **Output always is the first.** 先鎖後鑰!
 ### Leart (useful) 
 
-https://docs.godotengine.org/en/stable/tutorials/shaders/your_first_shader/your_first_2d_shader.html#using-texture-built-in
+https://docs.godotengine.org/en/stable/tutorials/shaders/your_first_shader/your_first_2d_shader.html#your-first-vertex-function
 
 > All objects derived from a `CanvasItem` have a material property. They also have an option to *inherit their parent's material*. This can be useful if *you have a large number of nodes that you want to use the same material*.
 
