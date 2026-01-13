@@ -15,7 +15,7 @@ https://docs.godotengine.org/en/stable/tutorials/shaders/shader_reference/shadin
 > **Output always is the first.** 先鎖後鑰!
 ### Leart (useful) 
 
-https://docs.godotengine.org/en/stable/tutorials/shaders/your_first_shader/your_first_2d_shader.html#your-first-vertex-function
+https://docs.godotengine.org/en/stable/tutorials/shaders/your_first_shader/your_first_2d_shader.html#your-first-vertex-function 
 
 > All objects derived from a `CanvasItem` have a material property. They also have an option to *inherit their parent's material*. This can be useful if *you have a large number of nodes that you want to use the same material*.
 
@@ -35,6 +35,38 @@ Range of built-in variable:
       - $a \times b$: a,b parallelogram area
       - $(a \times b) \cdot c$: area $\times$ hight $c \cos \theta$ = volume of a,b,c
     - [Cramer's Rule](https://www.youtube.com/watch?v=jBsC34PxzoM)
+      <!-- $$
+      \begin{bmatrix}
+          \cos \theta & -\sin \theta \\
+          \sin \theta & \cos \theta \\
+      \end{bmatrix}
+      \begin{bmatrix} x \\ y \\ \\]end{bmatrix} =
+      \begin{bmatrix} x' \\ y' \\ \end{bmatrix}       
+      $$
+      - can think as transforming `x,y` to `x',y'` (map every `x,y` in `(1,0)(0,1)` space to `(cos sin)(-sin cos)` space with values shown in `(1,0)(0,1)` space)
+      $$
+      x = \begin{bmatrix} \cos \theta \\ \sin \theta \\ \end{bmatrix} \cdot
+          \begin{bmatrix} x' \\ y' \end{bmatrix} 
+      $$
+      - recover how much `(cos sin)` in `x',y'` aka `x,y` ONLY when `(cos sin)` $\perp$ `(-sin cos)` AND they are unit vectors. -->
+      $$
+      A\vec{x}=\vec{x'} \\
+      \begin{bmatrix} \vec{a} & \vec{b} \end{bmatrix}
+      \begin{bmatrix} x \\ y \\ \end{bmatrix} =
+      \begin{bmatrix} x' \\  y' \\ \end{bmatrix} 
+      $$
+      - vectors in `(1,0)(0,1)` space transformed to $\vec{a},\vec{b}$ space ($A$'s column space)
+      - [3b1b](https://www.youtube.com/watch?v=Ip3X9LOh2dk): it scales area(volume) by $|\det(A)|$
+        - In 2D: $|\det(A)|=|\vec{a} \times \vec{b}|=|\vec{a}||\vec{b}|\sin\theta =$ area formed by new basis vectors
+        - In 3D: $|\det(A)|=|(\vec{a} \times \vec{b}) \cdot \vec{c}|=|\vec{a}||\vec{b}|\sin\theta_{ab}|\vec{c}|\cos \theta_c =$ volume formed by new basis vectors
+        - $\det(AB)=\det(A)\det(B)$: whole area change = $A$'s area scales on bases of $B$ (effectively $B$'s area scale) and scale area by new $B$'s scale  
+      $$
+      A\vec{x}=\vec{x'} \\
+      x_x=\frac{\begin{vmatrix} \vec{x'}& \vec{b} & \vec{c} \end{vmatrix}}{\det(A)} \\
+      x_y=\frac{\begin{vmatrix} \vec{a} & \vec{x'}& \vec{c} \end{vmatrix}}{\det(A)} \\
+      x_z=\frac{\begin{vmatrix} \vec{a} & \vec{b}& \vec{x'} \end{vmatrix}}{\det(A)} \\
+      $$
+      $\begin{vmatrix} \vec{x'}& \vec{b} & \vec{c} \end{vmatrix}$ is volume of $\vec{x'}$ with new basis vector $\vec{b},\vec{c}$. Divide $\det(A)$ to get original volume of $\vec{x}$ with origin basis $(0,1,0)(0,0,1)$, which is $x_x$!
 
     https://stackoverflow.com/questions/45896293/reducing-the-on%C2%B2-time-complexity-of-a-ray-casting-algorithm
     1. For each triangle, shoot a ray from the light source to the triangle
