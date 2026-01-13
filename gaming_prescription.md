@@ -49,5 +49,3 @@ Game price listed from high to low:
 People play games for general "happiness" usually need 1. 2. more... \
 Pay the price, be relieved (effectly + happily) and try to live a better life for free!  
 
-### Misc
-[Back to Main Page](index.md)

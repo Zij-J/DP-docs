@@ -39,7 +39,7 @@ Recorded Time **Recording Period**
  Start Document & Dreaming
 
 2025-11-10 **Year 0 Week 1:** \
-[Promotion: Upload docs to github page](Promotion/document_web.md)\
+[Promotion: Upload docs to github page](promotion/document_web.md)\
 [Art: Learn Godot 3D Animation code Structure](art/3d_animation_to_godot.md) \
 [Gameplay: Remove Rapier2D](gameplay/rapier2d.md) \
 [Tools: git SSH problems & setup](tools/git_ssh.md) \
@@ -56,14 +56,17 @@ Recorded Time **Recording Period**
 [Art: Learning basic 2D Godot Shaders](art/pixelated_shader.md) \
 [Art: Learning Ray casting Algorithm](art/pixelated_shader.md)
 
-2025-01- **Year 0 Week 10**: \
-[Phrase the life I want to live](hope_and_wish.md)
+2025-01-13 **Year 0 Week 10**: \
+[Phrase the life I want to live](hope_and_wish.md) \
+[Art: Learnt Cramer's Rule](art/pixelated_shader.md)
+
+2025-01-(18) **Year 0 Week 10**: \
 
 # Major Events
 Time|Event
--|-
+ -|-
 2025-11-03|開發再開; Start Document & Dreaming
-2025-11-10|[Upload docs to github page](Promotion/document_web.md)
+2025-11-10|[Upload docs to github page](promotion/document_web.md)
 2025-12-10|[Clarify my Goal: Show the World in a Fun way.](hope_and_wish.md)
 2026-01-04|[Decide gaming for current needs (not for making games)](gaming_prescription.md)
 2026-01-05|[Phrase the life I want to live](hope_and_wish.md)

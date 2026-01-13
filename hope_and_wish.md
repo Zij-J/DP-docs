@@ -1,5 +1,5 @@
 # For **Motivation**
-_Simple One:_ Show **the World** in a **Fun** way.
+_Simple One:_ Find **Fun** in **this darn World**.
 
 _Complex One:_ Bring **Smile** and **Respect** by **Creating**, not Competing!  
 1. Choose **what I love to do**, i.e., what motivates me, what give me hope _even when I get Zero fame and resources._
@@ -12,7 +12,7 @@ _Complex One:_ Bring **Smile** and **Respect** by **Creating**, not Competing!
 A life pattern: \
 ***Vividify the day, Gamify the night.*** 充實人生、充實遊戲
 
-> After setting the goal, we can **focus on the next step**, which is the prerequisite of Fun.
+> After setting the goal, we can **focus on the next step**, which is the prerequisite of a Fun: **Flow**.
 
 ## The **World** part
 Physic & History.  
@@ -50,5 +50,3 @@ Serious Background & Events with **Goofy Drastical _Physic Giants_ and Character
 Still a normal guy making his fun dreams Real-ly fun, step by step!
 
 
-### Misc
-[Back to Main Page](index.md)

@@ -11,5 +11,3 @@ https://nicolas-van.github.io/easy-markdown-to-github-pages/
 
 Next: Make it pretty!
 
-### Misc
-[Back to Main Page](../index.md)

@@ -9,5 +9,3 @@ https://www.youtube.com/watch?v=a0_JVEY7sbY
 2. `Import Script` exists 
     - modify the source-file-to-imported-scene _before_ the scene is saved in `.godot/imported`
 
-### Misc
-[Back to Main Page](../index.md)

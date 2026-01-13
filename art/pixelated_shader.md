@@ -77,5 +77,3 @@ Range of built-in variable:
     - but with (1. Octrees, 2. Boundary-Volume Hierarchies (BVH), and 3. K-d-trees, ascending with implement complexity and execution speed) reduce search complexity to $O(\log(n))$, complexity can reduce to $O(n\log(n))$
       - p.s. Binary-Space Partition (BSP) is fastest but constructing BSP tree is too costly for one-off ray tracing renders
 
-### Misc
-[Back to Main Page](../index.md)

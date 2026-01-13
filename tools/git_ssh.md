@@ -30,6 +30,3 @@ Using SSH need to
 6. Profile Icon `>  Setting > SSH and GPG keys > New SSH key` Name it and add it.
 7. Done! Can `push/clone` with SSH now~
 
-### Misc
-
-[Back to Main Page](../index.md)
