@@ -52,7 +52,7 @@ Recorded Time **Recording Period**
 [Clarify my Goal: Show the World in a Fun way.](hope_and_wish.md)
 
 2025-01-04 **Year 0 Week 6, 7, 8, 9**: \
-[Decide gaming for current needs (not for making games)](gaming_prescription.md) \
+[Gaming: Decide gaming for current needs (not for making games)](gaming_prescription.md) \
 [Art: Learning basic 2D Godot Shaders](art/pixelated_shader.md) \
 [Art: Learning Ray casting Algorithm](art/pixelated_shader.md)
 
@@ -60,7 +60,11 @@ Recorded Time **Recording Period**
 [Phrase the life I want to live](hope_and_wish.md) \
 [Art: Learnt Cramer's Rule](art/pixelated_shader.md)
 
-2025-01-(18) **Year 0 Week 10**: \
+2025-01-18 **Year 0 Week 11**: \
+[Gaming: rooky cognitive therapy of stubbornly chasing sense of achievement](gaming_prescription.md)
+
+2025-01-(25) **Year 0 Week 12**: \
+
 
 # Major Events
 Time|Event
