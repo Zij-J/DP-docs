@@ -63,7 +63,11 @@ Recorded Time **Recording Period**
 2025-01-18 **Year 0 Week 11**: \
 [Gaming: rooky cognitive therapy of stubbornly chasing sense of achievement](gaming_prescription.md)
 
-2025-01-(25) **Year 0 Week 12**: \
+2025-01-25 **Year 0 Week 12**: \
+Fix sleep schedule by not playing Nightreign before 8p.m. (HELL Important!)  
+Fixing work schedule (reduce roaming time in Nightreign & Internet).
+
+2025-02-(01) **Year 0 Week 13**: \
 
 
 # Major Events
