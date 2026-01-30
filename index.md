@@ -11,9 +11,9 @@ Following [messy dreams](hope_and_wish.md) is weirdly fun!
 
 [Art: Pixelated Shader](art/pixelated_shader.md)
 
-Art: Creat 3D animation
+[Art: Creat 3D animation](art/create_3d_animation.md)
 
-Art: Import 3D Character in Blender to Godot 
+[Art: Import 3D Character in Blender to Godot](art/3d_animation_to_godot.md)
 
 [Gameplay: Player Movement](gameplay/player_movement.md)
 
@@ -68,6 +68,8 @@ Fix sleep schedule by not playing Nightreign before 8p.m. (HELL Important!)
 Fixing work schedule (reduce roaming time in Nightreign & Internet).
 
 2025-02-(01) **Year 0 Week 13**: \
+Tools: Update Godot from 4.5 to 4.6 ([document](https://docs.godotengine.org/en/4.6/tutorials/migrating/upgrading_to_godot_4.6.html))  
+**Current Goal Order:** export to Windows/Android > create 3D animation (.glb) > import to godot > ragdoll > try physicially based walk
 
 
 # Major Events
