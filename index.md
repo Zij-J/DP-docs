@@ -67,11 +67,14 @@ Recorded Time **Recording Period**
 Fix sleep schedule by not playing Nightreign before 8p.m. (HELL Important!)  
 Fixing work schedule (reduce roaming time in Nightreign & Internet).
 
-2025-02-(01) **Year 0 Week 13**: \
+2025-02-05 **Year 0 Week 13**: \
 Tools: Update Godot from 4.5 to 4.6 ([document](https://docs.godotengine.org/en/4.6/tutorials/migrating/upgrading_to_godot_4.6.html))  
 **Current Goal Order:** export to Windows/Android > create 3D animation (.glb) > import to godot > ragdoll > try physicially based walk  
 [Program: Finish Export to Windows (for fun)](program/export.md)  
 [Tools: Create Git Cheatsheet for untracking tracked files](tools/git_cheatsheet.md)
+
+2025-02-(09) **Year 0 Week 14**: \
+
 
 # Major Events
 Time|Event
