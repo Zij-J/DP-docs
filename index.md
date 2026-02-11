@@ -73,7 +73,10 @@ Tools: Update Godot from 4.5 to 4.6 ([document](https://docs.godotengine.org/en/
 [Program: Finish Export to Windows (for fun)](program/export.md)  
 [Tools: Create Git Cheatsheet for untracking tracked files](tools/git_cheatsheet.md)
 
-2025-02-(09) **Year 0 Week 14**: \
+2025-02-11 **Year 0 Week 14**: \
+Nothing (Pls fix your work schedule!)
+
+2025-02-(16) **Year 0 Week 15**: \
 
 
 # Major Events
