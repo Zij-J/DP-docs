@@ -43,13 +43,13 @@ Recorded Time **Recording Period**
 [Art: Learn Godot 3D Animation code Structure](art/3d_animation_to_godot.md) \
 [Gameplay: Remove Rapier2D](gameplay/rapier2d.md) \
 [Tools: git SSH problems & setup](tools/git_ssh.md) \
-[Refine Mottos](hope_and_wish.md)
+[Dream: Refine Mottos](hope_and_wish.md)
 
 2025-11-17 **Year 0 Week 2, 3:** \
-[Reduce pressure of being "fun" (smiles is great enough!)](hope_and_wish.md)
+[Dream: Reduce pressure of being "fun" (smiles is great enough!)](hope_and_wish.md)
 
 2025-12-01 **Year 0 Week 4, 5:** \
-[Clarify my Goal: Show the World in a Fun way.](hope_and_wish.md)
+[Dream: Clarify my Goal (Show the World in a Fun way)](hope_and_wish.md)
 
 2025-01-04 **Year 0 Week 6, 7, 8, 9**: \
 [Gaming: Decide gaming for current needs (not for making games)](gaming_prescription.md) \
@@ -57,7 +57,7 @@ Recorded Time **Recording Period**
 [Art: Learning Ray casting Algorithm](art/pixelated_shader.md)
 
 2025-01-13 **Year 0 Week 10**: \
-[Phrase the life I want to live](hope_and_wish.md) \
+[Dream: Phrase the life I want to live](hope_and_wish.md) \
 [Art: Learnt Cramer's Rule](art/pixelated_shader.md)
 
 2025-01-18 **Year 0 Week 11**: \
@@ -77,13 +77,13 @@ Tools: Update Godot from 4.5 to 4.6 ([document](https://docs.godotengine.org/en/
 Nothing (Pls fix your work schedule!)
 
 2025-02-(16) **Year 0 Week 15**: \
-
+[Dream: Remove time constrain in desired life pattern (the *must* distracts attention when *can't*)](hope_and_wish.md)
 
 # Major Events
 Time|Event
  -|-
 2025-11-03|開發再開; Start Document & Dreaming
-2025-11-10|[Upload docs to github page](promotion/document_web.md)
+2025-11-10|[Promotion: Upload docs to github page](promotion/document_web.md)
 2025-12-10|[Clarify my Goal: Show the World in a Fun way.](hope_and_wish.md)
-2026-01-04|[Decide gaming for current needs (not for making games)](gaming_prescription.md)
-2026-01-05|[Phrase the life I want to live](hope_and_wish.md)
+2026-01-04|[Gaming: Decide gaming for current needs (not for making games)](gaming_prescription.md)
+2026-01-05|[Dream: Phrase the life I want to live](hope_and_wish.md)

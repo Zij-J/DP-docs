@@ -10,7 +10,7 @@ _Complex One:_ Bring **Smile** and **Respect** by **Creating**, not Competing!
 
 ### Goal
 A life pattern: \
-***Vividify the day, Gamify the night.*** 充實人生、充實遊戲
+***Vividify & Gamify*** 充實人生、充實遊戲
 
 > After setting the goal, we can **focus on the next step**, which is the prerequisite of a Fun: **Flow**.
 
