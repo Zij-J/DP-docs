@@ -76,8 +76,12 @@ Tools: Update Godot from 4.5 to 4.6 ([document](https://docs.godotengine.org/en/
 2025-02-11 **Year 0 Week 14**: \
 Nothing (Pls fix your work schedule!)
 
-2025-02-(16) **Year 0 Week 15**: \
-[Dream: Remove time constrain in desired life pattern (the *must* distracts attention when *can't*)](hope_and_wish.md)
+2025-02-19 **Year 0 Week 15**: \
+[Dream: Remove time constrain in desired life pattern (the *must* distracts attention when *can't*)](hope_and_wish.md)  
+[Program: Install OpenJDK, Android SDK for Export Android](program/export.md)
+
+2025-02-(22) **Year 0 Week 16**: \
+
 
 # Major Events
 Time|Event

@@ -28,3 +28,18 @@ https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_windows.ht
 
 
 ### Android
+Document:
+https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_android.html
+
+- [x] 1. [OpenJDK 17](https://adoptium.net/temurin/releases?version=17&os=any&arch=any)  
+  installed in `C:\Program Files\Eclipse Adoptium\jdk-17.0.18.8-hotspot\`
+- [x] 2. Android SDK  
+    installed in `C:\Program Files\Android\sdk`   
+    from [*sdkmanager* command line tool](https://developer.android.com/tools/sdkmanager) installed in `C:\Program Files\Android\sdk\cmdline-tools\latest`  
+    Install command (in admin in `bin`):  
+    ```shell
+    .\sdkmanager --sdk_root="C:\Program Files\Android\sdk" "platform-tools" "build-tools;35.0.1" "platforms;android-35" "cmake;3.10.2.4988404" "ndk;28.1.13356709"
+    ```
+    - `"cmdline-tools;latest"` already installed, no need.
+- [ ] 3.
+- [ ] 
