@@ -80,9 +80,11 @@ Nothing (Pls fix your work schedule!)
 [Dream: Remove time constrain in desired life pattern (the *must* distracts attention when *can't*)](hope_and_wish.md)  
 [Program: Install OpenJDK, Android SDK for Export Android](program/export.md)
 
-2025-02-(22) **Year 0 Week 16**: \
+2025-02-22 **Year 0 Week 16**: \
 [Program: Finish Export to Andorid with one-click deploy (for fun)](program/export.md)  
+[Art: Learning import 3D Character to Godot](art/3d_animation_to_godot.md)
 
+2025-03-(01) **Year 0 Week 17**: \
 
 # Major Events
 Time|Event
