@@ -81,6 +81,7 @@ Nothing (Pls fix your work schedule!)
 [Program: Install OpenJDK, Android SDK for Export Android](program/export.md)
 
 2025-02-(22) **Year 0 Week 16**: \
+[Program: Finish Export to Andorid with one-click deploy (for fun)](program/export.md)  
 
 
 # Major Events
