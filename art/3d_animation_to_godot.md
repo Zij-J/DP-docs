@@ -11,8 +11,10 @@ https://www.youtube.com/watch?v=a0_JVEY7sbY
 
 
 Export steps with Doucment: https://docs.godotengine.org/en/stable/tutorials/assets_pipeline/importing_3d_scenes/available_formats.html
-- [ ] 1. Enable Backface Culling in Blender's Materials tab
-- [ ] 2. Export as `.glb` (or `.gltf` if want texture seperated from material)
+- [x] 1. Enable Backface Culling in Blender's Materials tab  
+    Follow [kind youtube guy](https://www.youtube.com/watch?v=zUZh8kISB4E) to find Material tab. Then open `Settings > Backface Culling` following [forum guy's advice](https://forum.godotengine.org/t/material-backface-culling/129168).  Works for me.
+- [x] 2. Export as `.glb` (or `.gltf` if want texture seperated from material)
+- [x] 3. Drop `.glb` to Godot and `right click > Make local` to see and modify the details locally
 
 Considerations for product-ready export:   
 https://docs.godotengine.org/en/stable/tutorials/assets_pipeline/importing_3d_scenes/model_export_considerations.html#d-asset-direction-conventions

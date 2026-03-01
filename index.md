@@ -84,7 +84,10 @@ Nothing (Pls fix your work schedule!)
 [Program: Finish Export to Andorid with one-click deploy (for fun)](program/export.md)  
 [Art: Learning import 3D Character to Godot](art/3d_animation_to_godot.md)
 
-2025-03-(01) **Year 0 Week 17**: \
+2025-03-01 **Year 0 Week 17**: \
+[Art: Imported 3D Character to Godot (video not finished)](art/3d_animation_to_godot.md)
+
+2025-03-08 **Year 0 Week 18**: \
 
 # Major Events
 Time|Event
