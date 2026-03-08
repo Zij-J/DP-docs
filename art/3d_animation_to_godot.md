@@ -8,6 +8,9 @@ https://www.youtube.com/watch?v=a0_JVEY7sbY
     - **Rig Data**: how much mesh point transform from a bone (weight: 0-1, usually support 4 bones per vertex)
 2. `Import Script` exists 
     - modify the source-file-to-imported-scene _before_ the scene is saved in `.godot/imported`
+3. You can add other data to anime in inported `AnimationPlayer`
+4. `frame` = glorified dictionary, `AnimationPlayer` interpolate value between frames
+5. [Scene Unique Nodes](https://docs.godotengine.org/en/stable/tutorials/scripting/scene_unique_nodes.html) (`get_node("%RedButton")` without worries about where `RedButton` moved to) are NOT slow becasue Godot cache them
 
 
 Export steps with Doucment: https://docs.godotengine.org/en/stable/tutorials/assets_pipeline/importing_3d_scenes/available_formats.html
