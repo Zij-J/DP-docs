@@ -91,6 +91,10 @@ Nothing (Pls fix your work schedule!)
 [Gaming: Finish To the moon](gaming_prescription.md)
 
 2025-03-15 **Year 0 Week 19**: \
+Nothing (too *buzy* finding master degree advise professor aka *blinded by fame...*. Pls don't forget the origin!)
+
+2025-03-22 **Year 0 Week 20**: \
+
 
 # Major Events
 Time|Event
